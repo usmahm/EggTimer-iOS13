@@ -6,11 +6,11 @@
 
 This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
 
-## What You'll Make
+## What I made
 
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+I built a beutiful egg timer app to boil your eggs to prfection depending on how you prefer your eggs, following the guidance of my tutor (Angela Yu)
 
-## What you will learn
+## What I learnt
 
 * Swift Collection types - Dictionaries
 * The Swift Timer API
